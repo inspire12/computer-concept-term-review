@@ -15,15 +15,41 @@
 - [갓발자 isku의 자바 boj 풀이](https://github.com/ISKU/Algorithm)
 
 ## 프로그래밍 구조 
+- 객체 지향
+
 - 의존성 주입
     - dagger2 라이브러리
 - 비동기 처리 
     - 네트워킹
     - RxJava
 
+## 컴퓨터 공학 이론 
+[엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
+* 네트워크에서 stream을 받을 때 주의
+[구조체 패딩](http://pangate.com/19)
+
+
+## 인공지능 
+### 기반 수학
+[Likelihood]()
+    - 성공한 횟수(m)와 시행한 횟수(n)가 모수(parameter)로 주어지고 성공할 확률이 Random Variable일 때, 사건이 일어날 가능성 L(P|n,m)
+[Proability]()
+    - 시행할 횟수(n)과 성공확률 (p)가 모수(parameter)로 주어지고 성공 횟수가 
+### 자연어 처리 
+[언어학 관련](https://blog.naver.com/bcj1210/)
+[NLG](http://blog.ncsoft.com/?p=37832)
+### 컴퓨터 비전 
+
+### 딥러닝 
+
+
+### 참고 사이트 
+* [aidev 개발자 모임](http://aidev.co.kr/) light 한 사이트
 
 <hr>
+
 ## 서버 
+
 ### 네트워크
 
 ### *Docker*
@@ -45,39 +71,24 @@
     - 유용한 개발 툴 
     - 어떻게 3th party library가 돌까?
 - [구글 샘플](https://github.com/googlesamples) : 사실상 여기가 끝판왕
+    - [연습 - 해바라기 프로젝트](https://github.com/googlesamples/android-sunflower)
 - [Architecture](https://github.com/googlesamples/android-architecture)  
 - [비동기 처리 Handler, Looper](https://academy.realm.io/kr/posts/android-thread-looper-handler/)
 - [MVC->MVP->MVVM](https://thdev.tech/androiddev/2017/08/09/Android-MVC_MVP_MVVM-Intro.html) 
 - 애니메이션 
     - [예제](https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711)
     - [아이콘](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
-
-### CSS 
-* [Button 디자인](https://freefrontend.com/css-buttons/)
-## 컴퓨터 공학 이론 
-[엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
-* 네트워크에서 stream을 받을 때 주의
-[구조체 패딩](http://pangate.com/19)
 ### 코틀린
 * [Reference](https://kotlinlang.org/docs/reference/typecasts.html#safe-nullable-cast-operator)
 * [MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp-kotlin/)
 * [추가된 함수 apply, let, run, with](https://www.androidhuman.com/lecture/kotlin/2016/07/06/kotlin_let_apply_run_with/)
 
-## 인공지능 
-### 기반 수학
-[Likelihood]()
-    - 성공한 횟수(m)와 시행한 횟수(n)가 모수(parameter)로 주어지고 성공할 확률이 Random Variable일 때, 사건이 일어날 가능성 L(P|n,m)
-[Proability]()
-    - 시행할 횟수(n)과 성공확률 (p)가 모수(parameter)로 주어지고 성공 횟수가 
-### 자연어 처리 
-[언어학 관련](https://blog.naver.com/bcj1210/)
-### 컴퓨터 비전 
-
-### 딥러닝 
+## 웹
+### CSS 
+* [Button 디자인](https://freefrontend.com/css-buttons/)
 
 
-### 참고 사이트 
-* [aidev 개발자 모임](http://aidev.co.kr/) light 한 사이트
+
 
 
 ## 기타 
@@ -100,5 +111,5 @@
     - SharedPreference 
     - [Video](https://github.com/googlesamples/android-VideoPlayer)
 - oauth 
-
+- proguard : 코드 난독화?
 ## 기여자 목록입니다. 감사합니다!
