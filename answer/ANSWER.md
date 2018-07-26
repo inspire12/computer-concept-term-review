@@ -66,7 +66,9 @@
 ## 인공지능 
 ### 기반 수학
 [Likelihood]()
+    - 성공한 횟수(m)와 시행한 횟수(n)가 모수(parameter)로 주어지고 성공할 확률이 Random Variable일 때, 사건이 일어날 가능성 L(P|n,m)
 [Proability]()
+    - 시행할 횟수(n)과 성공확률 (p)가 모수(parameter)로 주어지고 성공 횟수가 
 ### 자연어 처리 
 [언어학 관련](https://blog.naver.com/bcj1210/)
 ### 컴퓨터 비전 
@@ -89,5 +91,14 @@
     - [Sktechx Youtube](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
 : 양질의 최신 세미나를 들을 수 있음, 한글 
     - [zerocho] (https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음 
+
+## 개인적으로 명확하지 않은 것들 질문 
+- Enum 을 쓰면 코드가 빨라지나 ?
+- Kotlin에서 nullable 이 필요 없을때? 
+- Dagger 
+- Android 
+    - SharedPreference 
+    - [Video](https://github.com/googlesamples/android-VideoPlayer)
+- oauth 
 
 ## 기여자 목록입니다. 감사합니다!
