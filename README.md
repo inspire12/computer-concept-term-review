@@ -30,11 +30,13 @@
 [구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의 
 
 
+## 선형대수 
+공간 
 ## 인공지능 
 ### 기반 수학
-[Likelihood]()
+* [Likelihood]()
     - 성공한 횟수(m)와 시행한 횟수(n)가 모수(parameter)로 주어지고 성공할 확률이 Random Variable일 때, 사건이 일어날 가능성 L(P|n,m)
-[Proability]()
+* [Proability]()
     - 시행할 횟수(n)과 성공확률 (p)가 모수(parameter)로 주어지고 성공 횟수가 
 ### 자연어 처리 
 [언어학 관련](https://blog.naver.com/bcj1210/)
@@ -50,6 +52,8 @@
 <hr>
 
 ## 서버 
+### REST API 
+* [설계 가이드](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
 
 ### 네트워크
 
@@ -72,6 +76,7 @@
     - Build ! 
     - 유용한 개발 툴 
     - 어떻게 3th party library가 돌까?
+- [안드로이드 가이드](https://guides.codepath.com/android)
 - [구글 샘플](https://github.com/googlesamples) : 사실상 여기가 끝판왕
     - [연습 - 해바라기 프로젝트](https://github.com/googlesamples/android-sunflower)
 - [Architecture](https://github.com/googlesamples/android-architecture)  
@@ -86,8 +91,14 @@
 * [추가된 함수 apply, let, run, with](https://www.androidhuman.com/lecture/kotlin/2016/07/06/kotlin_let_apply_run_with/)
 
 ## 웹
+* [django 시작 문서](https://django-doc-test-kor.readthedocs.io/en/old_master/topics/templates.html) 
 ### CSS 
+* [Udemy 웹 디자인 강좌 : Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/)
 * [Button 디자인](https://freefrontend.com/css-buttons/)
+
+
+### 애니메이션 
+* [애니메이션 라이브러리](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
 
 
@@ -98,10 +109,11 @@
     - [Pop it](https://www.popit.kr/) : 데브옵스와 아키텍처 설계등의 양질의 칼럼
     - [Medium 안드로이드](https://android.jlelse.eu/) : 영어로 된 칼럼
     - [Medium Pro 안드로이드](https://proandroiddev.com/) : 영어로 된 칼럼
+    - [Medium freecamp](https://medium.freecodecamp.org/)
     - [tutorialspoint](https://www.tutorialspoint.com/index.htm) : 새로운 개념 시작에 좋음, 영어
     - [Sktechx Youtube](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
 : 양질의 최신 세미나를 들을 수 있음, 한글 
-    - [zerocho] (https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음 
+    - [zerocho](https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음 
 
 ## 개인적으로 명확하지 않은 것들 질문 
 - Enum 을 쓰면 코드가 빨라지나 ?
