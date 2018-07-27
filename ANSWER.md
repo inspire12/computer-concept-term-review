@@ -16,7 +16,7 @@
 
 ## 프로그래밍 구조 
 - 객체 지향
-   - 철학 : 실제 생활과 비슷하게 코딩을 하자 
+
 - 의존성 주입
     - dagger2 라이브러리
 - 비동기 처리 
@@ -26,8 +26,7 @@
 ## 컴퓨터 공학 이론 
 [엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
 * 네트워크에서 stream을 받을 때 주의
-
-[구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의 
+[구조체 패딩](http://pangate.com/19)
 
 
 ## 인공지능 
@@ -55,7 +54,6 @@
 
 ### *Docker*
 - [Docker 처음 할 때 햇갈리는 점 pop it](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable])
-- [Docker 한국어 정리](https://github.com/remotty/documents.docker.co.kr)
 
 ### Docker Kubernetes (오케스트레이션 도구)
 - 설명 [1](https://www.popit.kr/kubernetes-introduction/?utm_source=dable)
@@ -91,6 +89,8 @@
 
 
 
+
+
 ## 기타 
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601) 
 - 공부 링크 
@@ -106,12 +106,10 @@
 ## 개인적으로 명확하지 않은 것들 질문 
 - Enum 을 쓰면 코드가 빨라지나 ?
 - Kotlin에서 nullable 이 필요 없을때? 
-- Dagger, 의존성 주입은 parameter로 외부에서 객체를 넘겨주는 방식인데 Dagger 는 안 써봐서 어떤 식으로 의존성 주입인지 햇갈림
+- Dagger 
 - Android 
     - SharedPreference 
     - [Video](https://github.com/googlesamples/android-VideoPlayer)
 - oauth 
 - proguard : 코드 난독화?
-- Firebase 
-- [Notification](https://github.com/googlesamples/android-architecture-components/tree/master/PagingWithNetworkSample)
 ## 기여자 목록입니다. 감사합니다!
