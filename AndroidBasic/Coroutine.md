@@ -11,7 +11,7 @@
  위에 말한 suspend와 resume 이 가능하단 의미는 종료할 때 완전히 삭제되는 게 아니라 현재 상태를 저장하고 있다는 얘기이다.  
  > suspend 될 때, 컨텍스트 객체에 다음 시작될 지점을 저장 
  > resume 될 때, 저장된 지점으로 점프 
- '''
+```
  function co():
   <before>
   yield;
@@ -24,7 +24,7 @@ function co(context):
     return;
   L0:
     <after>
-'''
+```
 
 ## Enumerator 
 일종의 코루틴 

@@ -8,36 +8,36 @@
 ## 사용법 
 
 데이터 저장
-'''
+```
 val pref = getSharedPreference("mPref", MODE_PRIVATE) // 여러 엑티비티에서 사용 가능
 val editor: SharedPreferences.Editor = pref.edit()
 editor.putString("test", "TEST")
 editor.commit() // 완료
-'''
+```
 - MODE_PRIVATE : 자기 app 내에서 사용할때, 기본값
 - MODE_WORLD_READABLE : 다른 app에서 읽기 가능
 - MODE_WORLD_WRITEABLE : 다른 app에서 쓰기 가능
 
 데이터 불러오기 
-'''
+```
 val test: SharedPreferences = getSharedPreferences("test", MODE_PRIVATE);
 firstData = test.getString("test");
-'''
+```
 
 데이터 삭제 (xml)
 1. 특정 데이터 삭제 
-'''
+```
 editor.remove("test")
 editor.commit()
-'''
+```
 2. 모든 데이터 삭제 
-'''
+```
 editor.clear()
 editor.commit()
-'''
+```
 
 Util화 
-'''
+```
 // 선언
 companipon object PreferencesUtil{
  
@@ -65,7 +65,7 @@ val Pw= PreferencesUtil.getPreferences(context, "Pw");
  
 Log.d("PreferencesUtil", "ID: " + ID);
 Log.d("PreferencesUtil", "Pw: " + Pw);
-'''
+```
 
 ### 참고사항 
 [nive 블로그](http://nive.tistory.com/6)
