@@ -51,7 +51,7 @@ coroutine consume
         yield to produce
 ```
 > 비대칭 방식에 dispatch loop 를 더해 대칭 코루틴 모사 가능 
-'''
+```
 var q := new queue
 generator produce
     loop
@@ -72,7 +72,7 @@ subroutine dispatcher
     var current := produce
     loop
         current := next d[current]
-'''
+```
 
 ## 안드로이드 코틀린 코루틴 
 kotlinx.coroutines 라이브러리에서 <strong>launch</strong> 이나 <strong>async</strong> 함수를 이용하야 새 동시 루틴을 시작할 수 있다. 
@@ -93,7 +93,7 @@ kotlinx.coroutines 라이브러리에서 <strong>launch</strong> 이나 <strong>
 
 #### 실행 pseudo 코드 
 * Two tasks sequentially 
-'''
+```
 private fun loadData() = launch(uiContext) {
     view.showLoading() // ui thread
  
@@ -107,9 +107,9 @@ private fun loadData() = launch(uiContext) {
  
     view.showData(result) // ui thread
 }
-'''
+```
 * execute two tasks parallel
-'''
+```
 private fun loadData() = launch(uiContext) {
     view.showLoading() // ui thread
  
@@ -120,9 +120,9 @@ private fun loadData() = launch(uiContext) {
  
     view.showData(result) // ui thread
 }
-'''
+```
 * timeout 
-'''
+```
 private fun loadData() = launch(uiContext) {
     view.showLoading() // ui thread
  
@@ -133,11 +133,11 @@ private fun loadData() = launch(uiContext) {
  
     view.showData(result) // ui thread
 }
-'''
+```
 * cancel 
  취소 될수 있는 Job 객체를 반환한다.
  > 부모 코루틴이 취소되면 모든 자식도 재귀적으로 취소 
- '''
+```
 var job: Job? = null
  
 fun startPresenting() {
@@ -156,7 +156,7 @@ private fun loadData() = launch(uiContext) {
  
     view.showData(result) // ui thread
 }
-'''
+```
 dataProvider.loadData가 아직 진행 중일 때 stopPresenting 함수가 호출 된 경우 view.showData 함수는 호출되지 않습니다
 
 

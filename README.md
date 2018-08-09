@@ -22,6 +22,7 @@
 - 비동기 처리 
     - 네트워킹
     - RxJava
+    - 코루틴
 
 ## 컴퓨터 공학 이론 
 [엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
@@ -100,7 +101,10 @@
 ### 애니메이션 
 * [애니메이션 라이브러리](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
-
+## 성능 
+- [안드로이드 메모리 누수 패턴](https://m.blog.naver.com/eyeballss/221127939604)
+- [가비지 컬렉터](http://imcreator.tistory.com/120?category=629872)
+- [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist/blob/master/README.md)
 
 ## 기타 
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601) 
