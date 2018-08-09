@@ -97,7 +97,6 @@
 * [Udemy 웹 디자인 강좌 : Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/)
 * [Button 디자인](https://freefrontend.com/css-buttons/)
 
-
 ### 애니메이션 
 * [애니메이션 라이브러리](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
@@ -105,6 +104,7 @@
 - [안드로이드 메모리 누수 패턴](https://m.blog.naver.com/eyeballss/221127939604)
 - [가비지 컬렉터](http://imcreator.tistory.com/120?category=629872)
 - [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist/blob/master/README.md)
+[Recyclerview precomputedText](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
 
 ## 기타 
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601) 
