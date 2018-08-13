@@ -1,11 +1,11 @@
 # MotionLayout 
 
 사용자가 앱과 소통하는 느낌을 주는 퀄리티 있는 앱을 위해 자연스러운 애니메이션은 필수입니다. <br>
-인드로이드에서 기본적으로 제공하는 애니메이션 처리 방법들을 이용하면 사용자에게 익숙한 방식으로 간단하게 구현할 수 있는데 조금씩 부족한 . <br>
-
+인드로이드에서 기본적으로 제공하는 기존의 애니메이션 처리 방법들을 사용자에게 익숙한 방식으로 간단하게 구현할 수 있습니다.<br>
+하지만 기존의 처리 방법에서 아쉬운 부분을 느꼈는데 AnimationUtils 를 이용하면 Animation 중간에 끊는 처리가 어색해집니다.
  만약 제공되지 않는 복잡한 방식의 애니메이션을 구현하려면 onDraw 메소드와 interpolate 메소드 그리고 수학적 계산을 통해 구현해야하는 복잡함이 있습니다. <br>
 
-그러나 2018년 구글 IO 키노트에서 발표한 가장 최근에 나온 MotionLayout 방식은 기존 제공하던 방법들의 장점을 합쳐  대해 설명하고자 합니다.
+이번에 2018년 구글 IO 키노트에서 발표한 가장 최근에 나온 MotionLayout 방식은 기존 제공하던 방법들의 장점을 합쳐 이와 같은 단점을 해결하고 훨씬 편하고 간단하게 구현이 가능합니다.
 
 
 ## 기존 안드로이드 애니메이션들 
@@ -99,8 +99,9 @@ dependencies {
 </MotionScene> 
 ```
 <br>
-* <ConstraintSet android:id="@+id/start"> 와 motion:constraintSetStart="@+id/start" 이 연결
-* <ConstraintSet android:id="@+id/end">와 motion:constraintSetEnd="@+id/end" 이 연결
+
+* ConstraintSet android:id="@+id/start"  와 motion:constraintSetStart="@+id/start" 이 연결
+* ConstraintSet android:id="@+id/end" 와 motion:constraintSetEnd="@+id/end" 이 연결
 <img src = "https://cdn-images-1.medium.com/max/640/1*PYOByy271vItozskVYc0SQ.png">
 
 3. OnSwipe 설정으로 애니메이션 trigger 설정 
@@ -109,11 +110,11 @@ OnSwipe Handler
     * touchAnchorSide : 
     * dragDirection : 
     
-+ Motion Layout 옵션 (Debugging 에 유용함) 
-    * app:applyMotionScene="boolean"
-    * app:showPaths="boolean"
-    * app:progress="float"
-    * app:currentState="reference"
+    + Motion Layout 옵션 (Debugging 에 유용함) 
+        * app:applyMotionScene="boolean"
+        * app:showPaths="boolean"
+        * app:progress="float"
+        * app:currentState="reference"
 
 
 4. KeyFrame
@@ -129,7 +130,7 @@ Transition 에 디테일한 이동경로를 설정
         </KeyFrameSet>
 </Transition>
 ```
-<img src = "https://cdn-images-1.medium.com/max/640/1*PYOByy271vItozskVYc0SQ.png">
+<img src = "https://cdn-images-1.medium.com/max/640/1*jOmDbVPaNMiqZqCb9W6I3w.gif">
 
 5. image filter 로 이미지 애니메이션 가능 
 * 엑티비티에 대상 이미지를 적용
