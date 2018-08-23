@@ -9,7 +9,7 @@
 * [이펙티브 프로그래밍 후기](https://brunch.co.kr/@imagineer/81)
     - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 
 * 실수할 여지를 줄이자
-### 자료구조, 알고리즘
+## 자료구조, 알고리즘
 - [알고리즘 강의 - 나동빈 블로그](https://blog.naver.com/ndb796/221226794899)
 - [kks227 블로그](http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220820773477) & [kks227 코드](https://github.com/kks227/BOJ) : 알고리즘 공부(Intermediate) 
 - [갓발자 isku의 자바 boj 풀이](https://github.com/ISKU/Algorithm)
@@ -23,6 +23,9 @@
     - 네트워킹
     - RxJava
     - 코루틴
+
+## 자바 
+[Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
 
 ## 컴퓨터 공학 이론 
 [엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
@@ -105,6 +108,7 @@
 - [가비지 컬렉터](http://imcreator.tistory.com/120?category=629872)
 - [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist/blob/master/README.md)
 [Recyclerview precomputedText](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
+- [자바스크립트 성능 저하 코드스타일](http://12bme.tistory.com/134) 
 
 ## 기타 
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601) 
