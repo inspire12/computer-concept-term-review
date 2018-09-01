@@ -7,6 +7,8 @@
     - runnable 처리(애니메이션의 병렬처리)
     - ViewPropertyAnimator 
 5. attributeSet
+6. transformer적용 
+7. cache manager 적용 
 
 ### onMeasure를 통해 뷰 크기 인지 
 ```
@@ -38,7 +40,7 @@ override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
 
 
 ### 애니메이션 적용 
-invald()를 쓰면 onDraw를 다시 부름 
+invalidate()를 쓰면 onDraw를 다시 부름 -> view를 다시 받음
 
 ```
  fun  setAnimation(prevLoc:Int, nextLoc: Int) {
