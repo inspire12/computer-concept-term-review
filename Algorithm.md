@@ -42,3 +42,5 @@
 ### 참고
 - [백준 알고리즘 강의 커리큘럼](https://offline.startlink.help/hc/ko/articles/217245158) 
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+12. 인덱스 트리
+13. 비트 마스크
