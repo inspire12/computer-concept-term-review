@@ -9,6 +9,13 @@
 * [이펙티브 프로그래밍 후기](https://brunch.co.kr/@imagineer/81)
     - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 
 * 실수할 여지를 줄이자
+
+## 컴퓨터가 데이터를 저장하는 방식
+[엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
+* 네트워크에서 stream을 받을 때 주의
+[구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의 
+
+
 ## 자료구조, 알고리즘
 - [알고리즘 강의 - 나동빈 블로그](https://blog.naver.com/ndb796/221226794899)
 - [kks227 블로그](http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220820773477) & [kks227 코드](https://github.com/kks227/BOJ) : 알고리즘 공부(Intermediate) 
@@ -27,11 +34,6 @@
 ## 자바 
 [Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
 
-## 컴퓨터 공학 이론 
-[엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
-* 네트워크에서 stream을 받을 때 주의
-
-[구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의 
 
 
 ## 선형대수 

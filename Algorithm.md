@@ -39,4 +39,6 @@
 - 그래프 이론 ( 다익스트라 - 최단거리 / 크루스칼 - 최소스패닝트리 / 폴-포커츠 /  )
 - 트리 (세그먼트 트리) 
 
-cf) [백준 알고리즘 강의 커리큘럼](https://offline.startlink.help/hc/ko/articles/217245158) 
+### 참고
+- [백준 알고리즘 강의 커리큘럼](https://offline.startlink.help/hc/ko/articles/217245158) 
+- [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)

@@ -43,6 +43,12 @@ MyFirebaseInstanceIDService : FirebaseInstanceIdService() 를 상속 받은 클�
             </intent-filter>
         </service>
 ```
+## 알림 전달 방식에 따른 처리 
+* foreground 
+ onMessageReceived() 메소드를 거침 
+ 
+* background 
+
 
 ### 참고사항 
 - [FCM 설정](http://blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=221299751382&categoryNo=0&parentCategoryNo=56&viewDate=&currentPage=4&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=4)

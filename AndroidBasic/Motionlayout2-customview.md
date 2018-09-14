@@ -1,6 +1,11 @@
 # 개인정리 : MotionLayout 2 - Custom View 에 적용 
 
-## CoordinatorLaylout 과 함께 쓰는 MotionLayout
+## CollapsibleToolbar CoordinatorLaylout 과 함께 쓰는 MotionLayout
+
+<img src/>
+
+layout 구성
+```
 
 ##
 
