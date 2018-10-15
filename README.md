@@ -10,6 +10,11 @@
     - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 
 * 실수할 여지를 줄이자
 
+## 기본기 공부할 곳
+* [tutorialspoint - 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공](https://www.tutorialspoint.com/)
+* [geeksforgeeks - 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공](https://www.geeksforgeeks.org/)
+    *[인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
+    
 ## 컴퓨터가 데이터를 저장하는 방식
 [엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
 * 네트워크에서 stream을 받을 때 주의
