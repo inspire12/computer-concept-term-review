@@ -139,6 +139,7 @@
 ---
 
 ## 웹
+* [웹 아키텍처](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 ## 프론트엔드
 * [Mozila 공식 사이트](https://developer.mozilla.org/ko/)
     - 웹프론트에 가장 기본적으로 볼 사이트
