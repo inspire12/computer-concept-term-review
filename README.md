@@ -2,11 +2,12 @@
 ## 목표
 * 무의식에서 아는 줄 알았던 모르는 개념들을 확실히 정리하기 위한 레포
 * 각각 제목만 보고 링크의 내용을 요약해서 말할 수 있도록 정확히 개념 공부
-* 각 개념 필요성과 연관 관계 이해 -> 프로세스 이해 & 개인 블로그 정리 -> 복습(암기)  
+* 각 개념 필요성과 연관 관계 이해 -> 프로세스 이해 & 개인 블로그 정리 -> *복습(암기)
 ---
 
 ## 프로그래머 기본기
-* [읽어볼 것](http://www.fastcampus.co.kr/dev_school_gds_blog_feature_1/)
+* [개발에서 중요한 건 성능?(알고리즘) 아니라 생산성!(clean code)]()
+* [프로그래머가 갖추어야 할 ‘기본’은 무엇인가](http://www.fastcampus.co.kr/dev_school_gds_blog_feature_1/)
     - 코딩은 결국 데이터를 원하는 방향으로 바꾸는 것
 * [이펙티브 프로그래밍 후기](https://brunch.co.kr/@imagineer/81)
     - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 일하는 게 맞음
@@ -16,9 +17,17 @@
 * 객체지향, 소프트웨어 공학 이해
 
 ## 기본기 공부할 곳
-* [tutorialspoint - 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공](https://www.tutorialspoint.com/)
-* [geeksforgeeks - 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공](https://www.geeksforgeeks.org/)
+* [(영어)tutorialspoint - 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공](https://www.tutorialspoint.com/)
+* [(영어)geeksforgeeks - 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공](https://www.geeksforgeeks.org/)
     * [인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
+
+## 기업 별 개발 블로그 
+* [naver d2](https://d2.naver.com/helloworld)
+    - 트레픽 처리와 javascript 등의 웹 관련 경험담 등 양질의 칼럼
+* [Toast meetup](https://meetup.toast.com/)
+    - 다양한 개발 양질의 칼럼, d2보다 기본 개념도 많음 
+* 
+* [nc soft](http://ilab.joins.com/) 
 
 ## 컴퓨터가 데이터를 저장하는 방식
 * [엔디안](http://www.joinc.co.kr/w/Site/Network_Programing/Documents/endian)
@@ -26,11 +35,12 @@
 * [구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의
 
 ## 자료구조, 알고리즘
+- [알고스팟](https://algospot.com)
 - [알고리즘 강의 - 나동빈 블로그](https://blog.naver.com/ndb796/221226794899)
 - [kks227 블로그](http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220820773477) & [kks227 코드](https://github.com/kks227/BOJ) : 알고리즘 공부(Intermediate)
 - [갓발자 isku의 자바 boj 풀이](https://github.com/ISKU/Algorithm)
 
-## 프로그래밍 구조
+## 프로그래밍 아키텍처(구조)
 - 객체 지향
    >철학 : 실제 생활과 비슷하게 코딩을 하자
 
@@ -74,7 +84,7 @@
 ### See also
 * [aidev 개발자 모임](http://aidev.co.kr/) : light 한 사이트
 * [Tensorflow Kr](https://www.facebook.com/groups/TensorFlowKR/) : 최신트랜드와 질문
-*
+
 <hr>
 
 ## 서버
