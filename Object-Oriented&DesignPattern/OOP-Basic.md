@@ -1,5 +1,7 @@
 
-
+## OCP
+OCP에 위반하지 않은 설계를 할 때 가장 중요한 것은 무엇이 변하는 것인지, 무엇이 변하지 않는 것인지를 구분해야 한다는 점이다.
+변해야 하는 것은 쉽게 변할 수 있게 하고, 변하지 않아야 할 것은 변하는 것에 영향을 받지 않게 해야 한다.
 
 ## 복잡성 증가에 대한 도전
 기본 구현 과정에서 의미론적(semantic) 잘못된 점
@@ -8,11 +10,7 @@
 
 
 ### See also
-* 타입스크립트 디자인 패턴
 
-## Typescript
-
-프로젝트 구성
- tsconfig.json : 편집기가 타입스크립트 프로젝트를 인식하고 관련 기능을 제공
- compilerOptions, files, exclude
- 선언 다운로드
+* [java OOP(객체지향 프로그래밍) 설계 원칙](https://gmlwjd9405.github.io/2018/07/05/oop-solid.html)
+* [객체지향의 올바른 이해(디테일) - 이세영님](http://effectiveprogramming.tistory.com/)
+*
