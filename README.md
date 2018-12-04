@@ -11,10 +11,10 @@
     - 개발에서 정말 중요한 것에 대해 생각하게 해줌
     - 네 python은 느립니다. 하지만 저는 신경쓰지 않습니다.
 * [실수할 여지를 줄이자(프로세스적을 분석하자)](https://www.youtube.com/watch?v=xUieIoMo3r8)
-* <strong>클린 코드</strong>    
+* [<strong>클린 코드</strong>](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)    
     * 프로그램의 본질! 프로그램은 끊임없이 변한다
     * 좋은 글을 쓰듯 코드를 쓰자 
-* git (git flow) 사용
+* [git (git flow)](https://ko.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * 자료구조(HashMap) & 알고리즘(문제해결 능력) 
 * 사용하는 프레임워크의 호출 순서
 * [좋은 프로그래머](https://brunch.co.kr/@imagineer/81)
@@ -31,8 +31,13 @@
 * [kakao tec](http://tech.kakao.com/)
     - 공채(kakao blind) 이야기 포함
 * [Sktechx Youtube](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
-: 양질의 최신 강의를 들을 수 있음
+    - 양질의 최신 강의를 들을 수 있음
+* [microsoft](https://msdn.microsoft.com/ko-kr/)
+* [우아한 형제들](http://woowabros.github.io/)
 * [쿠팡 tech](https://medium.com/coupang-tech)
+* [레진 코믹스 tech](https://tech.lezhin.com/)
+* [(영어) Facebook 개발 블로그](https://code.fb.com/)
+
 
 ## 좋은 개인 블로그 + 커뮤니티 + 공부 링크
 * [(영어)tutorialspoint](https://www.tutorialspoint.com/)
@@ -51,7 +56,7 @@
     - 종합적인 칼럼들 
 * [zerocho](https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음
 * [고퀄리티개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
-*
+* [개인 블로그 목록](https://github.com/sarojaba/awesome-devblog)
 ## 오픈소스 기여 시작하기
 - [오픈소스 프로젝트 활동할 때 유용한 영어 표현 모음!](https://github.com/EngForDev/awesome-engfordev)
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
@@ -74,7 +79,7 @@
   - 생성 패턴
   - 행동 패턴
 - TDD 
-    -[TDD는 죽었는가](http://jinson.tistory.com/271)
+    - [TDD는 죽었는가](http://jinson.tistory.com/271)
 - 의존성 주입(공부중)
     - dagger2 라이브러리
 
@@ -140,6 +145,9 @@
 
 ## 웹
 * [웹 아키텍처](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+* [브라우저의 동작 방식](https://d2.naver.com/helloworld/59361)
+* HTTP [1](https://www.joinc.co.kr/w/Site/Network_Programing/AdvancedComm/HTTP) [2](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
+
 ## 프론트엔드
 * [Mozila 공식 사이트](https://developer.mozilla.org/ko/)
     - 웹프론트에 가장 기본적으로 볼 사이트
@@ -169,7 +177,8 @@
 ## Web Infra
 [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 ### 네트워크 
-
+* [3G 의 동작 방식](https://d2.naver.com/helloworld/111111)
+* [TCP / IP](https://d2.naver.com/helloworld/47667)
 ### *Docker*
 - [Docker 처음 할 때 햇갈리는 점 pop it](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable])
 - [Docker 한국어 정리](https://github.com/remotty/documents.docker.co.kr)
