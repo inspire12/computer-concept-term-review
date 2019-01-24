@@ -57,13 +57,15 @@
 * [zerocho](https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음
 * [고퀄리티개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 * [개인 블로그 목록](https://github.com/sarojaba/awesome-devblog)
+* [태훈님 블로그 - javascript](https://taegon.kim/archives/9716)
+
 ## 오픈소스 기여 시작하기
 - [오픈소스 프로젝트 활동할 때 유용한 영어 표현 모음!](https://github.com/EngForDev/awesome-engfordev)
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ## 취업
 - [개발자 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
-- [초보 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [기본 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
 
 ## 자료구조, 알고리즘
 - [알고스팟](https://algospot.com)
@@ -79,6 +81,10 @@
   - 생성 패턴
   - 행동 패턴
 - TDD 
+    - [(입문)TDD 따라 이진트리 만들기](http://jhleed.tistory.com/18?category=614976)
+    - [Spring TDD](https://m.blog.naver.com/scw0531/220988401816)
+    - [Behavior Driven Development](http://jhleed.tistory.com/11?category=614976)
+    - [Cucumber 실행 동작](http://jhleed.tistory.com/21?category=614976)
     - [TDD는 죽었는가](http://jinson.tistory.com/271)
 - 의존성 주입(공부중)
     - dagger2 라이브러리
@@ -129,7 +135,8 @@
 
 ## java & JVM 기반 언어
 ## 자바
-[Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
+* [Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
+* [Json, Object 변환](https://www.lesstif.com/pages/viewpage.action?pageId=24445183)
 ## 코틀린
 * [Reference](https://kotlinlang.org/docs/reference/typecasts.html#safe-nullable-cast-operator)
 * [MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp-kotlin/)
