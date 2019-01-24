@@ -1,1 +1,0 @@
-[잘 정리되어 있는 gitbook](https://rebeccacho.gitbooks.io/spring-study-group/content/chapter16.html)
