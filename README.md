@@ -136,12 +136,9 @@
 
 ## 안드로이드
 #### 들어가기 전에
-- [안드로이드 개발자가 알아야할 것들](https://medium.com/mindorks/how-to-become-a-complete-android-developer-110d7ef91f2a)
-    <p>요약</p>
-    - Build !
-    - 유용한 개발 툴
-    - 어떻게 3th party library가 돌까?
-- [안드로이드 가이드](https://guides.codepath.com/android)
+- [(영어) How To Become A Complete Android Developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a)
+- [(영어) 안드로이드 가이드](https://guides.codepath.com/android)
+
 #### 구조
 - [구글 샘플](https://github.com/googlesamples) : 사실상 여기가 끝판왕
     - [연습 - 해바라기 프로젝트](https://github.com/googlesamples/android-sunflower)
@@ -199,7 +196,7 @@
 ### 네트워크 
 * [3G 의 동작 방식](https://d2.naver.com/helloworld/111111)
 * [TCP / IP](https://d2.naver.com/helloworld/47667)
-* [HTTP]((https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)    
+* [HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)    
 
 ### *Docker*
 - [Docker 처음 할 때 햇갈리는 점 pop it](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable])
