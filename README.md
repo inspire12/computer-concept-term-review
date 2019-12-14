@@ -23,24 +23,28 @@
 ---
 # 개발 공부할 곳 (구독)
 입문자한테는 안맞을 수도 있기 때문에 입문자용은 앞에 입문 적음
-## 질문 모음
-- [javascript 질문](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md) 
-- [기본 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
 
-## 커뮤니티 
+## 기본기
 * [(영어)tutorialspoint](https://www.tutorialspoint.com/)
     - 입문! 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공
 * [(영어)geeksforgeeks](https://www.geeksforgeeks.org/)
     * 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공
     * [인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
+
+### 질문 모음
+- [javascript 질문](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md) 
+- [기본 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
+
+## 칼럼, 커뮤니티
 * [Pop it](https://www.popit.kr/) 
     - 데브옵스와 아키텍처 설계등의 양질의 칼럼
-* [(영어) Medium 안드로이드](https://android.jlelse.eu/) 
-    - 커뮤니티 블로그, 트랜드에 맞는 양질의 칼럼
-* [(영어) Medium Pro 안드로이드](https://proandroiddev.com/) 
-    - 좀 더 깊게 공부
-* [(영어) Medium freecamp](https://medium.freecodecamp.org/) 
+    * [(영어) Medium freecamp](https://medium.freecodecamp.org/) 
     - 종합적인 칼럼들 
+* [(영어) Medium 안드로이드](https://android.jlelse.eu/) 
+    - 트랜드에 맞는 양질의 칼럼
+* [(영어) Medium Pro 안드로이드](https://proandroiddev.com/) 
+    - 안드로이드 고급
+
 
 
 ## 기업 별 개발 블로그 
