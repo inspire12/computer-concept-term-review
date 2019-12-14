@@ -29,7 +29,7 @@
 
 ## 커뮤니티 
 * [(영어)tutorialspoint](https://www.tutorialspoint.com/)
-- 입문! 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공
+    - 입문! 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공
 * [(영어)geeksforgeeks](https://www.geeksforgeeks.org/)
     * 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공
     * [인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
@@ -48,14 +48,16 @@
     - 트레픽 처리와 javascript 등의 웹 관련 경험담 등 양질의 칼럼
 * [toast meetup](https://meetup.toast.com/)
     - 다양한 개발 양질의 칼럼, d2보다 기본 개념도 많음 
-* [kakao tec](http://tech.kakao.com/)
+* [kakao tech](http://tech.kakao.com/blog)
     - 공채(kakao blind) 이야기 포함
-* [Sktechx Youtube](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
+* [sk techx Youtube](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
     - 양질의 최신 강의를 들을 수 있음
 * [microsoft](https://msdn.microsoft.com/ko-kr/)
 * [우아한 형제들](http://woowabros.github.io/)
 * [쿠팡 tech](https://medium.com/coupang-tech)
 * [레진 코믹스 tech](https://tech.lezhin.com/)
+* [당근마켓](https://medium.com/daangn)
+* [콴다](https://medium.com/qandastudy)
 * [(영어) Facebook 개발 블로그](https://code.fb.com/)
 
 ## 개인 블로그 
@@ -75,7 +77,7 @@
 
 
 
-## 자료구조, 알고리즘
+## 알고리즘, 코팅테스트, 알고리즘 대회
 - [알고스팟](https://algospot.com)
 - [(입문 + 알파) 알고리즘 강의 - 나동빈 블로그](https://blog.naver.com/ndb796/221226794899)
 - [(고급) kks227 블로그](http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220820773477) & [kks227 코드](https://github.com/kks227/BOJ) : 알고리즘 공부(Intermediate)
