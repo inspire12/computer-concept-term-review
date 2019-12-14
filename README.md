@@ -92,10 +92,24 @@
   - 행동 패턴
 - TDD 
     - [(입문)TDD 따라 이진트리 만들기](http://jhleed.tistory.com/18?category=614976)
-    - [Spring TDD](https://m.blog.naver.com/scw0531/220988401816)
     - [Behavior Driven Development](http://jhleed.tistory.com/11?category=614976)
     - [Cucumber 실행 동작](http://jhleed.tistory.com/21?category=614976)
     - [TDD는 죽었는가](http://jinson.tistory.com/271)
+---
+
+# 프로그래밍 언어
+## 자바
+* [Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
+* [Json, Object 변환](https://www.lesstif.com/pages/viewpage.action?pageId=24445183)
+## 코틀린
+* [Reference](https://kotlinlang.org/docs/reference/typecasts.html#safe-nullable-cast-operator)
+* [MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp-kotlin/)
+* [추가된 함수 apply, let, run, with](https://www.androidhuman.com/lecture/kotlin/2016/07/06/kotlin_let_apply_run_with/)
+
+## 자바스크립트 
+* [자바스크립트는 어떻게 메모리관리하는가](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
+
+
 ---
 
 # 서비스 
@@ -103,22 +117,20 @@
 ### REST API
 * [설계 가이드](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
 
-* 비동기 처리(공부중)
-    * 네트워킹
-    * RxJava
-    * 코루틴
 
-### 서버 프레임워크 써보기  
+### 서버 프레임워크 (입문)
+- [Spring 구조 light](https://m.blog.naver.com/scw0531/220988401816)
 * [nodejs를 통한 REST API 서버 만들기](http://webframeworks.kr/tutorials/nodejs/api-server-by-nodejs-01/)
 * [django 시작 문서](https://django-doc-test-kor.readthedocs.io/en/old_master/topics/templates.html)
+
+
 
 ### MQ 시스템
 - [카프카란? - 메세지 큐](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable)
 
 ---
 
-## 클라이언트
-### 안드로이드
+## 안드로이드
 #### 들어가기 전에
 - [안드로이드 개발자가 알아야할 것들](https://medium.com/mindorks/how-to-become-a-complete-android-developer-110d7ef91f2a)
     <p>요약</p>
@@ -141,31 +153,18 @@
     - [예제](https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711)
     - [아이콘](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
 
----
-
-## java & JVM 기반 언어
-## 자바
-* [Effective 자바 정리](https://brunch.co.kr/@oemilk/168)
-* [Json, Object 변환](https://www.lesstif.com/pages/viewpage.action?pageId=24445183)
-## 코틀린
-* [Reference](https://kotlinlang.org/docs/reference/typecasts.html#safe-nullable-cast-operator)
-* [MVP](https://github.com/googlesamples/android-architecture/tree/todo-mvp-kotlin/)
-* [추가된 함수 apply, let, run, with](https://www.androidhuman.com/lecture/kotlin/2016/07/06/kotlin_let_apply_run_with/)
-## 자바스크립트 
-* [자바스크립트는 어떻게 메모리관리하는가](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
-
-### 안드로이드에서 성능 생각
+## 안드로이드에서 성능 생각
 - [안드로이드 메모리 누수 패턴](https://m.blog.naver.com/eyeballss/221127939604)
 - [가비지 컬렉터](http://imcreator.tistory.com/120?category=629872)
 
+
 ---
 
-## 웹
+## 웹 프론트
 * [웹 아키텍처](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 * [브라우저의 동작 방식](https://d2.naver.com/helloworld/59361)
 * HTTP [1](https://www.joinc.co.kr/w/Site/Network_Programing/AdvancedComm/HTTP) [2](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
 
-## 프론트엔드
 * [Mozila 공식 사이트](https://developer.mozilla.org/ko/)
     - 웹프론트에 가장 기본적으로 볼 사이트
 ### HTML 
@@ -214,7 +213,6 @@
 ## 선형대수
 
 ## 인공지능
-
 ### 기반 수학
 * Likelihood
     - 성공한 횟수(m)와 시행한 횟수(n)가 모수(parameter)로 주어지고 성공할 확률이 Random Variable일 때, 사건이 일어날 가능성 L(P|n,m)
@@ -228,10 +226,10 @@
 ### 컴퓨터 비전
 
 ### 딥러닝
-
-### 컴퓨터 과학 See also
-* [aidev 개발자 모임](http://aidev.co.kr/) : light 한 사이트
+* [Tensorflow 튜터리얼](https://www.tensorflow.org/tutorials?hl=ko)
 * [Tensorflow Kr](https://www.facebook.com/groups/TensorFlowKR/) : 최신트랜드와 질문
+* [aidev 개발자 모임](http://aidev.co.kr/) : light 한 사이트
+
 
 ---
 # 운영체제
@@ -241,8 +239,7 @@
   // 특히 네트워크에서 stream을 받을 때 주의
 * [구조체 패딩](http://pangate.com/19) cf) Socket으로 데이터 보낼 때 주의
 
-## Context 
-### 멀티 쓰레드
+## 멀티 쓰레드
 * <strong>[Goroutines vs Threads](https://tech.ssut.me/goroutine-vs-threads/) </strong>
     - 배경인 멀티 코어의 등장부터 고루틴이 왜 효과적인지를 잘 설명해준 칼럼입니다.
 
