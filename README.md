@@ -7,22 +7,42 @@
 ## 프로그래머 기본기 
 * [프로그래머가 갖추어야 할 ‘기본’은 무엇인가](http://www.fastcampus.co.kr/dev_school_gds_blog_feature_1/)
     - 코딩은 결국 데이터를 원하는 방향으로 바꾸는 것
+* [좋은 프로그래머](https://brunch.co.kr/@imagineer/81)
+    - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 일하는 게 맞음
 * [개발에서 중요한 건 성능?(알고리즘) 아니라 생산성!(clean code)](https://tech.ssut.me/yes-python-is-slow-and-i-dont-care/)
     - 개발에서 정말 중요한 것에 대해 생각하게 해줌
     - 네 python은 느립니다. 하지만 저는 신경쓰지 않습니다.
 * [실수할 여지를 줄이자(프로세스적을 분석하자)](https://www.youtube.com/watch?v=xUieIoMo3r8)
-* [<strong>클린 코드</strong>](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)    
+* <strong>클린 코드</strong>
     * 프로그램의 본질! 프로그램은 끊임없이 변한다
     * 좋은 글을 쓰듯 코드를 쓰자 
 * [git (git flow)](https://ko.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * 자료구조(HashMap) & 알고리즘(문제해결 능력) 
 * 사용하는 프레임워크의 호출 순서
-* [좋은 프로그래머](https://brunch.co.kr/@imagineer/81)
-    - 회사에서 개발자는 기획자가 만든 계획에 따라 디자이너의 디자인을 현실로 옮기는 일, 이게 싫으면 프리랜서로 일하는 게 맞음
 
 ---
-# 개발 공부할 곳
+# 개발 공부할 곳 (구독)
 입문자한테는 안맞을 수도 있기 때문에 입문자용은 앞에 입문 적음
+## 질문 모음
+- [javascript 질문](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md) 
+- [기본 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
+
+## 커뮤니티 
+* [(영어)tutorialspoint](https://www.tutorialspoint.com/)
+- 입문! 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공
+* [(영어)geeksforgeeks](https://www.geeksforgeeks.org/)
+    * 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공
+    * [인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
+* [Pop it](https://www.popit.kr/) 
+    - 데브옵스와 아키텍처 설계등의 양질의 칼럼
+* [(영어) Medium 안드로이드](https://android.jlelse.eu/) 
+    - 커뮤니티 블로그, 트랜드에 맞는 양질의 칼럼
+* [(영어) Medium Pro 안드로이드](https://proandroiddev.com/) 
+    - 좀 더 깊게 공부
+* [(영어) Medium freecamp](https://medium.freecodecamp.org/) 
+    - 종합적인 칼럼들 
+
+
 ## 기업 별 개발 블로그 
 * [naver d2](https://d2.naver.com/helloworld)
     - 트레픽 처리와 javascript 등의 웹 관련 경험담 등 양질의 칼럼
@@ -38,22 +58,8 @@
 * [레진 코믹스 tech](https://tech.lezhin.com/)
 * [(영어) Facebook 개발 블로그](https://code.fb.com/)
 
-
-## 좋은 개인 블로그 + 커뮤니티 + 공부 링크
-* [(영어)tutorialspoint](https://www.tutorialspoint.com/)
-- 입문! 언어를 비롯 구조와 개념등 많은 분야에 대한 튜토리얼을 제공
-* [(영어)geeksforgeeks](https://www.geeksforgeeks.org/)
-    * 컴퓨터과학에 대한 거의 모든 걸 제공, 인터뷰 문제와 코딩 문제도 제공
-    * [인터뷰, 코딩 문제 관련](https://practice.geeksforgeeks.org/)
+## 개인 블로그 
 * [포프 Tv](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
-* [Pop it](https://www.popit.kr/) 
-    - 데브옵스와 아키텍처 설계등의 양질의 칼럼
-* [(영어) Medium 안드로이드](https://android.jlelse.eu/) 
-    - 커뮤니티 블로그, 트랜드에 맞는 양질의 칼럼
-* [(영어) Medium Pro 안드로이드](https://proandroiddev.com/) 
-    - 좀 더 깊게 공부
-* [(영어) Medium freecamp](https://medium.freecodecamp.org/) 
-    - 종합적인 칼럼들 
 * [zerocho](https://www.zerocho.com/) : 웹 프론트 전반적으로 잘 설명되어있음
 * [고퀄리티개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 * [개인 블로그 목록](https://github.com/sarojaba/awesome-devblog)
@@ -63,9 +69,11 @@
 - [오픈소스 프로젝트 활동할 때 유용한 영어 표현 모음!](https://github.com/EngForDev/awesome-engfordev)
 - [Readme 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
+
 ## 취업
 - [개발자 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
-- [기본 개발자 취업 질문](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 
+
+
 
 ## 자료구조, 알고리즘
 - [알고스팟](https://algospot.com)
@@ -73,8 +81,8 @@
 - [(고급) kks227 블로그](http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220820773477) & [kks227 코드](https://github.com/kks227/BOJ) : 알고리즘 공부(Intermediate)
 - [갓발자 isku의 자바 boj 풀이](https://github.com/ISKU/Algorithm)
 
-## 프로그래밍 아키텍처(구조)
-- 객체 지향 프로그래밍(OOP - Object Oriented Programming)
+
+## 객체 지향 프로그래밍(OOP - Object Oriented Programming)
    > 철학 : 실제 인간이 인식하는 것처럼 코딩을 하자는 패러다임
 - 디자인 패턴 : OOP 에서 마주하는 문제점을 해결한 방법들을 구조적 정리
   - 구조 패턴
@@ -86,9 +94,6 @@
     - [Behavior Driven Development](http://jhleed.tistory.com/11?category=614976)
     - [Cucumber 실행 동작](http://jhleed.tistory.com/21?category=614976)
     - [TDD는 죽었는가](http://jinson.tistory.com/271)
-- 의존성 주입(공부중)
-    - dagger2 라이브러리
-
 ---
 
 # 서비스 
@@ -104,6 +109,9 @@
 ### 서버 프레임워크 써보기  
 * [nodejs를 통한 REST API 서버 만들기](http://webframeworks.kr/tutorials/nodejs/api-server-by-nodejs-01/)
 * [django 시작 문서](https://django-doc-test-kor.readthedocs.io/en/old_master/topics/templates.html)
+
+### MQ 시스템
+- [카프카란? - 메세지 큐](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable)
 
 ---
 
@@ -173,7 +181,7 @@
 * [애니메이션 라이브러리](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 
 
-### 웹에서 성능 생각
+### 웹 성능 향상 
 - [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist/blob/master/README.md)
 [Recyclerview precomputedText](https://developers-kr.googleblog.com/2018/08/prefetch-text-layout-in-recyclerview.html)
 - [자바스크립트 성능 저하 코드스타일](http://12bme.tistory.com/134)
@@ -181,11 +189,13 @@
 
 
 ---
-## Web Infra
-[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
+## Network & Infra & Devops
+[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 ### 네트워크 
 * [3G 의 동작 방식](https://d2.naver.com/helloworld/111111)
 * [TCP / IP](https://d2.naver.com/helloworld/47667)
+* [HTTP]((https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)    
+
 ### *Docker*
 - [Docker 처음 할 때 햇갈리는 점 pop it](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable])
 - [Docker 한국어 정리](https://github.com/remotty/documents.docker.co.kr)
@@ -194,8 +204,6 @@
 ### Docker Kubernetes (오케스트레이션 도구)
 - [Docker Kubernetes란?](https://www.popit.kr/kubernetes-introduction/?utm_source=dable)  -> 추후 정리
 
-### 카프카
-- [카프카란? - 메세지 큐](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EB%8A%94-kafka/?utm_source=dable)
 
 
 ---
