@@ -135,18 +135,18 @@
 ---
 
 ## 안드로이드
-#### 들어가기 전에
+### 들어가기 전에
 - [(영어) How To Become A Complete Android Developer](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a)
 - [(영어) 안드로이드 가이드](https://guides.codepath.com/android)
 
-#### 구조
+### 구조
 - [구글 샘플](https://github.com/googlesamples) : 사실상 여기가 끝판왕
     - [연습 - 해바라기 프로젝트](https://github.com/googlesamples/android-sunflower)
     - [컴포넌트](https://github.com/googlesamples/android-architecture-components/tree/master/PagingWithNetworkSample)
 - [Architecture](https://github.com/googlesamples/android-architecture)  
 -  [MVC->MVP->MVVM](https://thdev.tech/androiddev/2017/08/09/Android-MVC_MVP_MVVM-Intro.html)
 
-#### 컴포넌트
+### 컴포넌트
 - [비동기 처리 Handler, Looper](https://academy.realm.io/kr/posts/android-thread-looper-handler/)
 - SharedPreference
 - [Video](https://github.com/googlesamples/android-VideoPlayer)
@@ -154,7 +154,7 @@
     - [예제](https://android.jlelse.eu/make-your-app-shine-how-to-make-a-button-morph-into-a-loading-spinner-9efee6e39711)
     - [아이콘](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
 
-## 안드로이드에서 성능 생각
+### 안드로이드에서 성능 생각
 - [안드로이드 메모리 누수 패턴](https://m.blog.naver.com/eyeballss/221127939604)
 - [가비지 컬렉터](http://imcreator.tistory.com/120?category=629872)
 
@@ -189,8 +189,8 @@
 - [자바스크립트 성능 저하 코드스타일](http://12bme.tistory.com/134)
 - [Webpack 설정 도움 사이트](https://webpack.jakoblind.no/)
 
-
 ---
+# Deploy 
 ## Network & Infra & Devops
 [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 ### 네트워크 
@@ -207,12 +207,15 @@
 - [Docker Kubernetes란?](https://www.popit.kr/kubernetes-introduction/?utm_source=dable)  -> 추후 정리
 
 
+### Webpack (javascript)
+- [웹팩 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
+### Gradle (java)
+- [Gradle의 기본 개념](https://not-for-me.io/post/gradle/01-basic-of-build-script/)  
+
 
 ---
 # 컴퓨터 과학
-
 ## 선형대수
-
 ## 인공지능
 ### 기반 수학
 * Likelihood
@@ -231,7 +234,6 @@
 * [Tensorflow Kr](https://www.facebook.com/groups/TensorFlowKR/) : 최신트랜드와 질문
 * [aidev 개발자 모임](http://aidev.co.kr/) : light 한 사이트
 
-
 ---
 # 운영체제
 * ["64비트 멀티코어 OS 원리와 구조" 스터디 자료](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -245,7 +247,6 @@
     - 배경인 멀티 코어의 등장부터 고루틴이 왜 효과적인지를 잘 설명해준 칼럼입니다.
 
 ---
-
 
 
 
