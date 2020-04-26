@@ -32,7 +32,7 @@
 
 
 # Git flow (실제 여러명이 프로젝트에서 Git으로 협업하는 방법)
-
+* [git (git flow)](https://ko.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 Source tree를 사용하여 깃 플로우를 쓰길 권장 합니다. <br>
 괜히 저처럼 콘솔로 하다가 실수로 파일 add 잘못하는 일이 없길 바랍니다. <br>
 Git 은 훌륭한 버전 관리 툴이자, 협업 툴입니다.
